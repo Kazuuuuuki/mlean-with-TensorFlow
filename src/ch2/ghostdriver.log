@@ -1,0 +1,7 @@
+Fontconfig error: "local.conf", line 7: invalid attribute 'quel'
+[INFO  - 2016-12-30T22:06:10.594Z] GhostDriver - Main - running on port 46302
+[INFO  - 2016-12-30T22:06:11.407Z] Session [2c6089b0-cedc-11e6-baae-7557d29754a3] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-12-30T22:06:11.408Z] Session [2c6089b0-cedc-11e6-baae-7557d29754a3] - page.customHeaders:  - {}
+[INFO  - 2016-12-30T22:06:11.409Z] Session [2c6089b0-cedc-11e6-baae-7557d29754a3] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-12-30T22:06:11.410Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 2c6089b0-cedc-11e6-baae-7557d29754a3
+Fontconfig error: "local.conf", line 7: invalid attribute 'quel'
